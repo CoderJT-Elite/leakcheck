@@ -1,0 +1,15 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "leakcheck"
+version = "0.1.0"
+description = "Checks athlete injury-prediction datasets for leakage and reports accuracy against simple baselines."
+readme = "README.md"
+requires-python = ">=3.9"
+license = { text = "MIT" }
+dependencies = ["numpy", "pandas", "scipy", "scikit-learn"]
+
+[tool.setuptools]
+packages = ["leakcheck"]
