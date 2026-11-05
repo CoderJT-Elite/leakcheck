@@ -2,9 +2,9 @@
 
 A small Python package that checks athlete injury-prediction datasets for five kinds of leakage and reports model accuracy against simple baselines.
 
-Created for a Regeneron Science Talent Search 2027 research project by John Tewolde.
+Created for a Regeneron Science Talent Search 2027 research project by John Tewolde (hoping for good results!)
 
-**AI disclosure:** the code in this repository was written with AI coding assistance (Antigravity, by Google) and reviewed by the author. Each source file says so in its first line.
+**AI disclosure:** the code in this repository was written with AI coding assistance (Antigravity, by Google) and reviewed by the author (me, John).
 
 ## What it checks
 
